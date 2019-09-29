@@ -1,1 +1,1 @@
-# pollapp
+# basic poll application
